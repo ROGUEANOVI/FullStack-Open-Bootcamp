@@ -1,16 +1,16 @@
-#!/usr/bin/env python3
+# !/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
 # Created By  : Ovidio Antonio Romero Guerrero
 # Created Date: 2002/07/20
 # version ='1.0'
 # ---------------------------------------------------------------------------
-""" Details about the module and for what purpose it was built for"""
+""" Program que valida la mayoria de edad de un usuario """
 # ---------------------------------------------------------------------------
-# Imports Line 5
+# Imports 
 # ---------------------------------------------------------------------------
-# from ... import ...
 edad=int(input("Ingrese la edad: "))
+
 if edad > 0 and edad <= 150:
     if edad >= 18:
         print("Es mayor de edad.")

@@ -5,7 +5,7 @@
 # Created Date: 2002/07/25
 # version ='1.0'
 # ---------------------------------------------------------------------------
-""" Programa que clcula el area de un triangulo y un circulo mediante funciones"""
+""" Programa que calcula el area de un triangulo y un circulo mediante funciones"""
 # ---------------------------------------------------------------------------
 # Imports
 import math

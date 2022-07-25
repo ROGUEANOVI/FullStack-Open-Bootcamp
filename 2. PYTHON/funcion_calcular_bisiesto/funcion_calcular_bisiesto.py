@@ -5,7 +5,7 @@
 # Created Date: 2002/07/25
 # version ='1.0'
 # ---------------------------------------------------------------------------
-""" Programa que muestra si un año es bisiesto o no, mediante una funcioncd"""
+""" Programa que muestra si un año es bisiesto o no, mediante una funcion"""
 # ---------------------------------------------------------------------------
 # Imports
 # ---------------------------------------------------------------------------

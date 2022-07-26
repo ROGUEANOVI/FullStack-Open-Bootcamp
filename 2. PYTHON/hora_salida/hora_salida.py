@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # ----------------------------------------------------------------------------
 # Created By  : Ovidio Antonio Romero Guerrero
-# Created Date: 2002/07/25
+# Created Date: 2002/07/26
 # version ='1.0'
 # ---------------------------------------------------------------------------
 """ Programa que muestra si es la hora de salida y si no calcula cuanto hace falta para la salida """

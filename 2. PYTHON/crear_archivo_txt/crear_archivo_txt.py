@@ -15,6 +15,6 @@ archivo.write("Primera linea del archivo\n")
 archivo.close()
 
 archivo = open("archivo.txt", "r+")
-file.readline()
-file.write('Esta es la segunda vez que escribo.\n')
+archivo.readline()
+archivo.write('Esta es la segunda vez que escribo.\n')
 archivo.close()

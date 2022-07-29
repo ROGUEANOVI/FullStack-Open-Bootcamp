@@ -12,5 +12,9 @@
 
 archivo = open("E:/Documentos/4. CURSOS PROGRAMACION/5. OPEN BOOTCAMP/2. PYTHON/crear_archivo_txt/archivo.txt", "w")
 archivo.write("Primera linea del archivo\n")
-archivo.write("Segunda linea del archivo\n")
+archivo.close()
+
+archivo = open("archivo.txt", "r+")
+file.readline()
+file.write('Esta es la segunda vez que escribo.\n')
 archivo.close()

@@ -1,2 +1,2 @@
-Primera linea del archivo
-Segunda linea del archivo
+Primera linea del archivo.
+Segunda linea del archivo.
